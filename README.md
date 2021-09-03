@@ -68,3 +68,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+[https://recharts.org/en-US/api]
+[https://imasters.com.br/front-end/recharts-construa-graficos-com-react-e-d3]
+[https://dev.to/hjdesigner/criando-graficos-com-o-react-google-charts-4mm5]
+[https://react-google-charts.com/bar-chart]
