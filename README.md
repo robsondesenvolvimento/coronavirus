@@ -3,6 +3,10 @@
 - > Lista as informações em tabela
 - > Mostra um grafico de barra das mesmas informações da tabela
 
+# # Projeto bublicado em produção no Azure e Github Pages usando CI/DI no Github Actions.
+- > Azure https://coronavirus-dev.azurewebsites.net/
+- > Github Pages https://robsondesenvolvimento.github.io/coronavirus/
+
 # # Componentes criados
 - > Foram criados 3 componentes ( Webapi, ChartsCoronavirus, TabelaCoronavirus )
 - > Webapi - retorna informações do serviço de api

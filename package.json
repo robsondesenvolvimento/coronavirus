@@ -2,6 +2,7 @@
   "name": "coronavirus",
   "version": "1.0.0",
   "private": true,
+  "homepage": ".",
   "dependencies": {
     "bootstrap": "^5.1.0",
     "react": "^17.0.2",
