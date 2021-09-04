@@ -3,8 +3,7 @@
 - > Lista as informações em tabela
 - > Mostra um grafico de barra das mesmas informações da tabela
 
-# # Projeto bublicado em produção no Azure e Github Pages usando CI/DI no Github Actions.
-- > Azure https://coronavirus-dev.azurewebsites.net/
+# # Projeto bublicado em produção no Github Pages usando CI/DI no Github Actions.
 - > Github Pages https://robsondesenvolvimento.github.io/coronavirus/
 
 # # Componentes criados
