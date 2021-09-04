@@ -22,7 +22,7 @@ function TabelaCoronavirus(props) {
                                 </tr>
                             )
                         }
-
+                        return null;
                     })}
                 </tbody>
             </table>
